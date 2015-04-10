@@ -331,8 +331,6 @@ calaos_server_SOURCES = \
         UDPServer.h                                     \
         WebSocket.cpp                                   \
         WebSocket.h                                     \
-        WebSocketFrame.cpp                              \
-        WebSocketFrame.h                                \
         main.cpp
 
 calaos_server_LDADD =                                   \
